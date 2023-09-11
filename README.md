@@ -18,13 +18,5 @@ Please note that for this code to work successfully, you need to have the correc
 Обратите внимание, что для успешной работы этого кода необходимо иметь правильные учетные данные электронной почты и настроенный сервер SMTP.
 
 # Library
-# ENG Telebot
-- Telebot - это библиотека для создания Telegram-ботов на языке программирования Python. Telegram - популярная платформа мессенджера, которая позволяет пользователям создавать и взаимодействовать с чат-ботами. Telebot упрощает процесс создания и управления Telegram-ботами, предоставляя высокоуровневый API, который абстрагирует от многих сложностей работы с Telegram Bot API.
-
-С помощью Telebot вы можете создавать ботов, которые могут отправлять и получать сообщения, изображения, файлы и многое другое на платформе Telegram. Он предоставляет функции для обработки команд пользователей, встроенных запросов и обратных вызовов, что делает создание интерактивных и отзывчивых ботов более простым.
-- RU
--Telebot is a Python library for creating Telegram bots. Telegram is a popular messaging platform that allows users to create and interact with chatbots. Telebot simplifies the process of building and managing Telegram bots by providing a high-level API that abstracts away many of the complexities of working with the Telegram Bot API.
-
-With Telebot, you can create bots that can send and receive messages, images, files, and more on the Telegram platform. It provides features for handling user commands, inline queries, and callbacks, making it easier to create interactive and responsive bots.
-
-# smtblib -
+- telebot : pip3 install telebot
+- smtblib : pip3 install smtblib
